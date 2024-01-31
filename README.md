@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2><img src = "https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width = "60">&nbsp Hi, I'm Han-Ton (Sean)</h2>
 
 <!--
 **sean08266/sean08266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
