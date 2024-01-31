@@ -6,4 +6,4 @@ I'm Han-Ton (Sean), I'm currently a master student at NTU Econ specialized in Ap
 - **Interests**: Baskteball, Coding, Travel, Shopping, Reading, Eating
 - **Academic Societies**: @NTUDAC、@TMBA
   
-Feel free to contact!
+Feel free to contact me!
